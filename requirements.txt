@@ -7,3 +7,4 @@ langchain
 langsmith
 tiktoken
 faiss-cpu
+langchain-community
